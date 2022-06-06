@@ -1,0 +1,4 @@
+Links = //h2/a/@href
+Titulo = //div[@class="container title-share"]/div/div/h2/span/text()
+Resumen = //div[@class="lead"]/p/text()
+Cuerpo = //div[@class="row article-wrapper"]/div[@id="proportional-anchor-1"]/div/div[@class="html-content"]/p[not(@class)]/text()
